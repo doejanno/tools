@@ -1,3 +1,5 @@
+# I run this file by typing 'python3 findOpenPorts.py > output.txt' to save the output into .txt
+
 import socket
 
 def bruteForcePortSearch(HOST): # Function to brute Force oben PORTS
